@@ -114,3 +114,6 @@ public class CalculadoraConHistorial {
         System.out.println("Historial borrado con éxito.");
     }
 }
+
+
+:)
